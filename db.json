@@ -76,6 +76,5 @@
     {
       "confirmationmsg": ""
     }
-  ],
-  "eventname": "event_CompleteServerAns",
+  ]
 }
